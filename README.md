@@ -25,7 +25,7 @@
 * **pm2 l | ls | list** - Lista los procesos activos
 * **pm2 start ruta/archivo.js** - Inicia un archivo y lo agrega a la lista de procesos iniciados 
 * **pm2 start ruta/archivo.js --watch** - Ejecuta un archivo y lo mantiene bajo observación por si hay cambios
-* **pm2 start archivo.js --name** - Ejecuta un archivo y le asigna un nombre personalizado
+* **pm2 start ruta/archivo.js --name** - Ejecuta un archivo y le asigna un nombre personalizado
 * **pm2 restart name | id | pid | all** - Reinicia uno o todos los procesos segun el parametro indicado
 * **pm2 stop name | id | pid | all** - Detiene uno o todos los procesos segun el parametro indicado
 * **pm2 delete name | id | pid | all** - Elimina uno o todos los procesos segun el parametro indicado
