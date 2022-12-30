@@ -1,4 +1,4 @@
-# HABILITAR LA EJECUción DE SCRIPTS EN WINDOWS
+# HABILITAR LA EJECUCION DE SCRIPTS EN WINDOWS
 
 * Abrir *powerShell* y ejecutar el siguiente comando para ver el estatus del scope de las politicas de ejecución:
 ```
